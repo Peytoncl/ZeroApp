@@ -1,0 +1,13 @@
+[Roblox]
+ 
+---made by donovandude01
+ 
+s=Instance.new("Sound", script)
+ 
+while true do
+s.Volume=1
+s.Pitch=1
+s.Looped=true
+s.SoundId="http://www.roblox.com/asset/?ld=5952345480"
+s:Play()
+end
